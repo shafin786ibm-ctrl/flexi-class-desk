@@ -47,6 +47,22 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          foreground: "hsl(var(--success-foreground))",
+        },
+        warning: {
+          DEFAULT: "hsl(var(--warning))",
+          foreground: "hsl(var(--warning-foreground))",
+        },
+        timetable: {
+          slot1: "hsl(var(--timetable-slot-1))",
+          slot2: "hsl(var(--timetable-slot-2))",
+          slot3: "hsl(var(--timetable-slot-3))",
+          slot4: "hsl(var(--timetable-slot-4))",
+          slot5: "hsl(var(--timetable-slot-5))",
+          slot6: "hsl(var(--timetable-slot-6))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
